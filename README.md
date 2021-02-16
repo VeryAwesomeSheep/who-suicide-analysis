@@ -1,4 +1,4 @@
 # who-suicide-analysis
-My first dataset analysis made during "Data Analysis with Python: Zero to Pandas" course by Jovian.
+WHO Suicide Statistics analysis for years 1979-2015. 
 
-It analyses statistics made by WHO for years 1979-2015.
+My first dataset analysis made during "Data Analysis with Python: Zero to Pandas" course by Jovian.
